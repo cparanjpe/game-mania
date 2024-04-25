@@ -27,7 +27,7 @@ class Author extends StatelessWidget {
             ),
           ),
           Text(
-            'by reach'.toUpperCase(),
+            'by CKAM'.toUpperCase(),
             style: kMeduimTextStyle,
           ),
         ],
